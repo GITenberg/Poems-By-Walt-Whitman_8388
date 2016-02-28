@@ -1,0 +1,37 @@
+_repo: Poems-By-Walt-Whitman_8388
+contributor:
+  creator:
+    editor:
+      agent_name: Rossetti, William Michael
+      aliases:
+      - Rosetti, William Michael
+      - Rossetti, W. M. (William Michael)
+      birthdate: 1829
+      deathdate: 1919
+      gutenberg_agent_id: '2718'
+      url: http://www.gutenberg.org/2009/agents/2718
+      wikipedia: http://en.wikipedia.org/wiki/William_Michael_Rossetti
+creator:
+  author:
+    agent_name: Whitman, Walt
+    alias: Whitman, Walter
+    birthdate: 1819
+    deathdate: 1892
+    gutenberg_agent_id: '600'
+    url: http://www.gutenberg.org/2009/agents/600
+    wikipedia: http://en.wikipedia.org/wiki/Walt_Whitman
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8388'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- 19th century'
+title: Poems By Walt Whitman
+url: http://www.gutenberg.org/ebooks/8388
